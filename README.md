@@ -1,19 +1,33 @@
-﻿# [MDM9206](https://github.com/sochub/MDM9206)
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
-#### 厂商：[qualcomm](https://github.com/sochub/qualcomm)
-#### 内核：[Cortex A7](https://github.com/sochub/CA7)
-#### 芯片定级：[Level](https://github.com/sochub/Level)
-## [描述](https://github.com/sochub/MDM9206/wiki) 
+﻿# [HW3181](https://github.com/SoCXin/HW3181)
 
-[MDM9206](https://www.qualcomm.com/products/mdm9206-iot-modem) ARM Cortex A7 Up to 1.3 GHz
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-The MDM9206 LTE modem is designed as a global multi-mode connectivity solution and purpose-built to provide reliable, optimized cellular connectivity for the next-generation of IoT products and services requiring low bandwidth and years of battery-life. The MDM9206 narrowband multi-mode LTE modem combines the high reliability, low latency, and voice support of LTE Cat-M1 (eMTC) with the extended coverage and delay tolerance of Cat NB-1 (NB-IoT), engineered to allow device manufacturers to support ultra-low power consumption and cost-optimized solutions that cover full range of low data rate IoT applications. The inclusion of both technologies as well as E-GPRS along with support of up to 15 global spectrum bands in MDM9206, can allow OEMS to develop products based on single SKU to function in a diverse set of operator deployments worldwide, and thus helping to maximize the IoT products global reach and scalability.
+#### [Vendor](https://github.com/SoCXin/Vendor) ：[Eastsoft](http://www.essemi.com/)
+#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
+#### [Level](https://github.com/SoCXin/Level) ：48 MHz * 0.9 DMIPS/MHz
+
+## [HW3181简介](https://github.com/SoCXin/HW3181/wiki)
+
+[HW3181](https://github.com/SoCXin/HW3181)
+
+[![sites](docs/HW3181.png)](http://www.essemi.com/product/17.html)
+
+#### 关键特性
+
+* 433/780/868/915MHz
+* 30mA@10dBm TX
+* 最大输出功率：+20 dBm
+* 接收灵敏度：-114dBm@10Kbps(433MHz)，-109dBm@50kbps(433MHz)
 
 
-Operating System: ThreadX, Linux
+### [资源收录](https://github.com/SoCXin/HW3181)
 
-### [选型建议](https://github.com/sochub)
+* [参考文档](docs/)
+* [参考资源](src/)
+* [参考工程](project/)
 
+### [选型建议](https://github.com/SoCXin)
 
+[HW3181](https://github.com/SoCXin/HW3181)
 
-###  [SoC资源平台](http://www.qitas.cn)   
+###  [SoC.芯](http://www.SoC.Xin)
