@@ -37,10 +37,6 @@
         "accuracy": 0.02,
         "rate": 1024
     },
-    "USB": {
-        "num": 1,
-        "more":["FS","device"]
-    },
     "RTC": {
         "CLK": 32768,
         "PPM": 1.5,
